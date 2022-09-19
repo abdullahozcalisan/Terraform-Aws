@@ -1,0 +1,13 @@
+variable "instance_count" {}
+variable "instance_type" {}
+variable "vpc_sg_id" {}
+variable "sub_id" {}
+variable "user_data_path" {}
+variable "db_name" {}
+variable "db_endpoint" {}
+variable "db_username" {}
+variable "db_password" {}
+variable "vol_size" {}
+variable "key_name" {}
+variable "tga_port" {}
+variable "tg_arn" {}
